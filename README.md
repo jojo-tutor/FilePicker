@@ -1,2 +1,0 @@
-# FilePicker
-Created with CodeSandbox
